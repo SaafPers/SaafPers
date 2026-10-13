@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+I am Saafir, a Computer Systems Engineering student in the UK.
 
 <!--
 **SaafPers/SaafPers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
